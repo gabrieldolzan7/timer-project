@@ -1,0 +1,17 @@
+{
+    "name": "1032816/timer-project",
+    "require": {
+        "phpunit/php-timer": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "1032816\\TimerProject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gabriel Dolzan",
+            "email": "gabriel.dolzan@unidavi.edu.br"
+        }
+    ]
+}
